@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rojas"
+  given-names: "Felix"
+title: "FIRE in the context of BE, VV, and NSTOVSUT"
+version: 1.0
+date-released: 2024-07-20
+url: "https://github.com/fcuantico/thesis_codes"
